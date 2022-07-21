@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @manoharreddyvoladri
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python
-- 📫 How to reach me ...python
-
-<!---
-manoharreddyvoladri/manoharreddyvoladri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in  many things not to one fixed
+- 🌱 I’m currently learning something new
+- 💞️ I’m looking to collaborate on  few things but it is not a correct time to say 
+- 📫 How to reach me ... 
