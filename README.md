@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manohar Reddy</h1>
-<h3 align="center">A passionate Machine learning & Robotics from India</h3>
+<h3 align="center">A passionate Data Science and Machine learning with Robotics from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoharreddyvoladri&label=Profile%20views&color=0e75b6&style=flat" alt="manoharreddyvoladri" /> </p>
 
