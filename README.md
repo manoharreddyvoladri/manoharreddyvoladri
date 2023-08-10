@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoharreddyvoladri&label=Profile%20views&color=0e75b6&style=flat" alt="manoharreddyvoladri" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **voladrimanoharreddy@gmail.com**
 
