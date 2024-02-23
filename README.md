@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manohar Reddy</h1>
-<h3 align="center">A passionate Data Science and Machine learning with Robotics from India</h3>
+<h3 align="center">A passionate AI and  Robotics student from VIT, Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoharreddyvoladri&label=Profile%20views&color=0e75b6&style=flat" alt="manoharreddyvoladri" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱venturing into the unexplored
 
 - 📫 How to reach me **voladrimanoharreddy@gmail.com**
 
-- ⚡ Fun fact **I love to go for Long drive. But, I don't have Bike.**
+- ⚡ Hobby  **Capturing moments and fueled by the thrill of the open road**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
