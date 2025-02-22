@@ -1,22 +1,66 @@
-<h1 align="center">Hi 👋, I'm Manohar Reddy</h1>
-<h3 align="center">A passionate AI and  Robotics student from VIT, Chennai</h3>
+# Hello , I'm Manohar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoharreddyvoladri&label=Profile%20views&color=0e75b6&style=flat" alt="manoharreddyvoladri" /> </p>
+**`AI & Robotics Enthusiast | Full-Stack Developer`**
 
-- 🌱venturing into the unexplored
+I'm a final-year Computer Science student specializing in AI and Robotics at VIT Chennai. I thrive on exploring uncharted territories in technology and turning innovative ideas into reality.
 
-- 📫 How to reach me **voladrimanoharreddy@gmail.com**
+- 🌱 **Currently Learning:** Advanced Machine Learning Techniques, ROS2
+- 📫 **Contact:** [voladrimanoharreddy@gmail.com](mailto:voladrimanoharreddy@gmail.com)
+- ⚡ **Hobbies:** Photography, Motorcycling, Traveling
 
-- ⚡ Hobby  **Capturing moments and fueled by the thrill of the open road**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/voladrimr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="voladrimr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/voladrimanoharreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voladrimanoharreddy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21117728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21117728" height="30" width="40" /></a>
-<a href="https://kaggle.com/manoharreddyvoladri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manoharreddyvoladri" height="30" width="40" /></a>
-<a href="https://fb.com/voladrimanoharreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="voladrimanoharreddy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manoharreddy23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manoharreddy23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manoharreddyvoladri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manoharreddyvoladri" height="30" width="40" /></a>
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### [GestureSpeak: AI Sign Language Translator](https://github.com/manoharreddyvoladri/GestureSpeak)
+An AI-powered application that translates sign language into speech in real-time, enhancing communication for the hearing impaired.
+
+### [ETH Deposit Monitoring System](https://github.com/manoharreddyvoladri/ETH-Deposit-Monitoring)
+A real-time Ethereum deposit tracking system with Telegram alerts and live data visualization.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/manoharreddyvoladri">
+    <img src="https://github-readme-stats.vercel.app/api?username=manoharreddyvoladri&show_icons=true&theme=radical" alt="Manohar's GitHub Stats" height="200"/>
+  </a>
+  <a href="https://github.com/manoharreddyvoladri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharreddyvoladri&theme=dark" alt="Manohar's GitHub Streak" height="200"/>
+  </a>
 </p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=manoharreddyvoladri&label=Profile%20views&color=0e75b6&style=flat)
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/voladrimanoharreddy)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/voladrimr)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/manoharreddyvoladri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/manoharreddyvoladri)
+
+---
+
+*Let's collaborate and build something innovative together!*
+
+
+
+
+
+ 
 
