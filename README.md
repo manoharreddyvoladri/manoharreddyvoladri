@@ -23,16 +23,6 @@ I'm a final-year Computer Science student specializing in AI and Robotics at VIT
 
 ---
 
-## 🚀 Projects
-
-### [GestureSpeak: AI Sign Language Translator](https://github.com/manoharreddyvoladri/GestureSpeak)
-An AI-powered application that translates sign language into speech in real-time, enhancing communication for the hearing impaired.
-
-### [ETH Deposit Monitoring System](https://github.com/manoharreddyvoladri/ETH-Deposit-Monitoring)
-A real-time Ethereum deposit tracking system with Telegram alerts and live data visualization.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
