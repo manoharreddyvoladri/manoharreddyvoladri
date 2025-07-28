@@ -2,7 +2,7 @@
 
 **`AI & Robotics Enthusiast | Full-Stack Developer`**
 
-I'm a final-year Computer Science student specializing in AI and Robotics at VIT Chennai. I thrive on exploring uncharted territories in technology and turning innovative ideas into reality.
+I'm a  Computer Science student specialized in AI and Robotics  student from VIT Chennai. I thrive on exploring uncharted territories in technology and turning innovative ideas into reality.
 
 - 🌱 **Currently Learning:** Advanced Machine Learning Techniques, ROS2
 - 📫 **Contact:** [voladrimanoharreddy@gmail.com](mailto:voladrimanoharreddy@gmail.com)
